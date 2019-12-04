@@ -32,9 +32,25 @@ print ( "This string has a Slash\\Character in it" )
 print('------------')
 print( "Do you need 'quotes?' ")
 print('------------')
-print( 'You can use a \' if you escape it')
+print( 'You can use a \' if you escape it with a \\')
 
 # srtings
 my_string = "This is a of text stored as a variable"
 print( my_string )
 
+# conditionals and comparisons
+"""
+>>> 1 < 2
+True
+>>> 0 > 2
+False
+>>> 2 == 1
+False
+>>> 2 != 1
+True
+>>> 3.0 >= 3.0
+True
+>>> 3.1 <= 3.0
+False
+
+"""
