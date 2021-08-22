@@ -6,5 +6,5 @@
 ** I need to make a list of things I want to do **
 
 Make a list
-- desfine ways to parse files
+- define ways to parse files
 - 
