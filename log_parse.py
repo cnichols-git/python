@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 
 ##
 # cnichols - this should take a file and pull out some of the data with certain conditions
@@ -25,10 +25,10 @@ print("Below is the output from logs:\n",file.read())
 
 
 # same as above
-with open("/home/chris/Documents/test_logs", "r") as infile:
-    reader = csv.reader(infile, delimeter=",")
-    header = next(reader)
-    print(header)
+#with open("/home/chris/Documents/test_logs", "r") as infile:
+    #reader = csv.reader(infile, delimeter=",")
+    #header = next(reader)
+    #print(header)
 
 # create a file
 # outfile = open("", w)
